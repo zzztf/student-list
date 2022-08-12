@@ -220,6 +220,7 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Sui Sui (@Sui-Sui2000)
 * LC66
 * Cocoa (@NFTCocoa)
+* Zaid
 * ADD YOUR NAME ABOVE HERE
 
 **NFT Tallinn workshop 2022-04-05**
